@@ -1,0 +1,9 @@
+D:\Users\For WEBTOON\PROGRAMMING\C#\VB Auto Center\VB Auto Center\bin\Debug\VB Auto Center.exe
+D:\Users\For WEBTOON\PROGRAMMING\C#\VB Auto Center\VB Auto Center\bin\Debug\VB Auto Center.pdb
+D:\Users\For WEBTOON\PROGRAMMING\C#\VB Auto Center\VB Auto Center\obj\Debug\VB Auto Center.csproj.AssemblyReference.cache
+D:\Users\For WEBTOON\PROGRAMMING\C#\VB Auto Center\VB Auto Center\obj\Debug\VB_Auto_Center.Form1.resources
+D:\Users\For WEBTOON\PROGRAMMING\C#\VB Auto Center\VB Auto Center\obj\Debug\VB_Auto_Center.Properties.Resources.resources
+D:\Users\For WEBTOON\PROGRAMMING\C#\VB Auto Center\VB Auto Center\obj\Debug\VB Auto Center.csproj.GenerateResource.cache
+D:\Users\For WEBTOON\PROGRAMMING\C#\VB Auto Center\VB Auto Center\obj\Debug\VB Auto Center.csproj.CoreCompileInputs.cache
+D:\Users\For WEBTOON\PROGRAMMING\C#\VB Auto Center\VB Auto Center\obj\Debug\VB Auto Center.exe
+D:\Users\For WEBTOON\PROGRAMMING\C#\VB Auto Center\VB Auto Center\obj\Debug\VB Auto Center.pdb
